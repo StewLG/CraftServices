@@ -2,7 +2,7 @@
 
 ## Description
 
-Craft Services is a command line application that connects to multiple iNav crafts over wireless serial links and exchanges position data between them. A related set of patches to iNav enables the radar display of these craft along with distance and altitude information. It is intended to aid buddies flying together FPV. It currently requires a bi-directional serial link for both crafts. This is because each craft must not only report their current position, but be told other crafts positions. This rules out LTM as it currently works in the iNav ecosystem.
+Craft Services is a command line application that connects to multiple iNav crafts over wireless serial links and exchanges position data between them. [A related set of patches to iNav](https://github.com/StewLG/inav/tree/CraftServicesHandRebase) enables the radar display of these craft along with distance and altitude information. It is intended to aid buddies flying together FPV. It currently requires a bi-directional serial link for both crafts. This is because each craft must not only report their current position, but be told other crafts positions. This rules out LTM as it currently works in the iNav ecosystem.
 
 Craft Services is written in portable C++. It is currently Windows-only, but Android, Mac and Linux ports are absolutely possible. There is a very small amount of Windows specific code, but all output and serial processing is done with async cross-platform C++ libraries so none of this should present serious issues for porting.
 
