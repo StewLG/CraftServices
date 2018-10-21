@@ -24,7 +24,7 @@ As of October 20, 2018, Craft Services comes heartbreakingly close to being usef
 
 **c:\CraftServices>CraftServices.exe --ports com20 --baud 9600 --refresh 300 --phantomwingman com20,0,100,0 --loglevel debug --exitgpsloss**
 
-CraftServices Phantom Wingman Looback Demo video:
+CraftServices Phantom Wingman Loopback Demo video:
 
 [![CraftServices Phantom Wingman Loopback Demo](https://i.vimeocdn.com/video/733595452_640.jpg)](https://vimeo.com/296230738/47e155a2db)
 
