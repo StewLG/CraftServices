@@ -49,4 +49,4 @@ In the medium term, I can see a role for Mavlink being a way to get position inf
 
 ## What's new on the iNav side?
 
-[ Much more to say here ]
+[![Quick CraftServices iNav tour](https://i.vimeocdn.com/video/733613502_640.jpg)](https://vimeo.com/296244911/4e7a55570f)
