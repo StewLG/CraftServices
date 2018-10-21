@@ -20,7 +20,7 @@ As of October 20, 2018, Craft Services comes heartbreakingly close to being usef
 
 [Command line string]
 
-[Video]
+![CraftServicesLoopbackDemo](https://vimeo.com/296230738/47e155a2db)
 
 [Diagram]
 
