@@ -18,7 +18,7 @@ As of October 20, 2018, Craft Services comes heartbreakingly close to being usef
 * With TBS Crossfire's RX<-> bluetooth bi-directional serial link, performance is decent at close range, but fails completely at anything over 10-30 meters. I am not alone in finding the link to be completely useless at range. (Note that we are specifically talking about the bi-directional Crossfire serial link, NOT emulated Mavlink or anything else)
 * Dragonlink's Rx<->bluetooth bi-directional serial link works quite a bit better than TBS Crossfire's. With a single radio involved, Craft Services can work quite well. Here's a demo of the "Phantom Wingman" mode of CraftServices. 
 
-[Command line string]
+**c:\CraftServices>CraftServices.exe --ports com20 --baud 9600 --refresh 300 --phantomwingman com20,180,50,-200 --loglevel debug --exitgpsloss**
 
 CraftServices Phantom Wingman Looback Demo video:
 
