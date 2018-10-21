@@ -54,7 +54,7 @@ In the medium term, I can see a role for Mavlink being a way to get position inf
 ## What's new on the iNav side?
 
 Here's a quick tour video of the prospective changes on the iNav side:
-[![Quick CraftServices iNav tour](https://i.vimeocdn.com/video/733613502_640.jpg)](https://vimeo.com/296244911/4e7a55570f)
+[![Quick CraftServices iNav tour](https://user-images.githubusercontent.com/7128339/47269143-b81d8180-d50e-11e8-8f99-c42d36a0f122.PNG)](https://vimeo.com/296244911/4e7a55570f)
 
 New Parameters:
 
