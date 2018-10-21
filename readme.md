@@ -52,3 +52,50 @@ In the medium term, I can see a role for Mavlink being a way to get position inf
 Here's a quick tour video of the prospective changes on the iNav side:
 [![Quick CraftServices iNav tour](https://i.vimeocdn.com/video/733613502_640.jpg)](https://vimeo.com/296244911/4e7a55570f)
 
+New Parameters:
+
+## Map Parameters
+osd_map_min_zoom_scale_in_centimeters = 1000
+
+Allowed range: 1 - 4294967295
+
+osd_map_max_zoom_scale_in_centimeters = 100000
+
+Allowed range: 1 - 4294967295
+
+osd_map_scale_adjustment_rc_channel = 8
+
+Allowed range: 0 - 18
+
+osd_map_scale_adjustment_auto_range_pwm_min = 1400
+
+Allowed range: 1000 - 2000
+
+osd_map_scale_adjustment_auto_range_pwm_max = 1600
+
+Allowed range: 1000 - 2000
+
+osd_map_scale_zoom_mode = ABSOLUTE
+
+Allowed values: ABSOLUTE, AUTO_RELATIVE, AUTO_RELATIVE_WITH_HOLD
+
+osd_map_h_margin = 1
+
+Allowed range: 1 - 12
+
+osd_map_v_margin = 1
+
+Allowed range: 1 - 4
+
+## CraftServices specific parameters
+
+othercraft_msp_should_send_craft_positions = ON
+Allowed values: OFF, ON
+
+othercraft_stale_interval_in_milliseconds = 4000
+Allowed range: 0 - 4294967295
+
+othercraft_expire_interval_in_milliseconds = 7000
+Allowed range: 0 - 4294967295
+
+
