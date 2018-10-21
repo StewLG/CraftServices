@@ -8,6 +8,10 @@ Craft Services is written in portable C++. It is currently Windows-only, but And
 
 Craft Services is released under GPL V3 (Gnu Public Library Version 3) or later.
 
+## Sample Execution
+
+[![CraftServices Phantom Wingman Loopback Demo](https://i.vimeocdn.com/video/733615379_640.jpg)](https://vimeo.com/296246413/bfea54dfde)
+
 ## Current Status
 
 As of October 20, 2018, Craft Services comes heartbreakingly close to being useful, but is still hamstrung by low-reliability links and/or Craft Services inexpert handling of them. I am currently unsure if it can be made to work properly with existing commercial hardware (Crossfire, Dragonlink). Some days I'm quite discouraged about the whole thing, and others I thiink it's just one long-range radio firmware upgrade / magic serial port C++ handling trick away from being useful. It seems close enough to working that I am publicizing it early to hopefully get some help with things, and to make others aware that the work exists, even if it isn't immediately completely useful. This project needs help, not hype, but if there are people out there interested enough to participate in some way I want to reach them.
